@@ -1,7 +1,7 @@
 # shared_search_view
 Shared SearchView with TabsLaout and Collapsing Toolbar in Android
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/fwWyC3BYLYFCbzZBIu/giphy.gif)
 
 
 
